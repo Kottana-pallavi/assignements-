@@ -1,0 +1,14 @@
+a=5
+b=2
+a<b
+print('a<b:',a<b)
+a>b
+print('a>b:',a>b)
+a<=b
+print('a<=b:',a<=b)
+a>=b
+print('a>=b:',a>=b)
+a==b
+print('a==b:',a==b)
+a!=b
+print('a!=b:',a!=b)
