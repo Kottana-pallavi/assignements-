@@ -1,0 +1,7 @@
+
+List = ["b", "a", "a", "c", "b", "a", "c",'a']
+count=0
+for i in List:
+    if i == 'a': 
+        count = count + 1  
+print ("the number of a in List is :", count)
