@@ -1,0 +1,8 @@
+evenList = [34,5 ,6 ,7, 45, 2, 5]
+print("List Items = ", evenList)
+for i in range(7):
+  for ev in evenList:
+    if (ev % 2 == 0):
+        evenList.remove(ev)
+    
+print("List Items after removing even Items = ", evenList)
